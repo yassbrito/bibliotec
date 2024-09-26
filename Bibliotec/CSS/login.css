@@ -15,7 +15,7 @@
 
 body {
     background-size: 100%;
-    background-image: url(../images/login-bk-desktop.png);
+    background-image: url(./images/login-bk-desktop.png);
     font-family: "Montserrat", sans-serif;
     display: flex;
     flex-wrap: wrap;
